@@ -172,6 +172,14 @@ plt.show()
 
 Bu betik, eğitilmiş modeli yükler ve yeni görüntüler üzerinde tahmin yapar.
 
+---
+## Veri Seti
+
+Bu projede kullanılan veri seti, MURA (Musculoskeletal Radiographs) veri setidir. Bu veri setine şu bağlantıdan erişebilirsiniz:
+
+[https://www.kaggle.com/code/azaemon/mura-classification/input](https://www.kaggle.com/code/azaemon/mura-classification/input)
+
+---
 #### Ana Adımlar
 
 1. **Modeli Yükleme**
@@ -231,4 +239,7 @@ Tahmin Edilen Sınıf Adı: HAND
 ## Lisans
 
 Bu proje yalnızca eğitim amaçlıdır.
+
+
+
 
