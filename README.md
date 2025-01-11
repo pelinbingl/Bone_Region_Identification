@@ -208,6 +208,8 @@ print(f"Tahmin Edilen Sınıf Adı: {predicted_class_name}")
 
 #### Örnek Çıktı
 
+![image1](https://github.com/user-attachments/assets/3458186d-fabd-4ad6-9819-1ce4faab848d)
+
 ```plaintext
 Model başarıyla yüklendi.
 Görüntü: ![image1](https://github.com/user-attachments/assets/039342ad-8c5e-4812-a711-3dbaed45a825)
