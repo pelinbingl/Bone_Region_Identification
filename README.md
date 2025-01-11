@@ -161,7 +161,8 @@ plt.legend()
 plt.show()
 ```
 
-**Görsel Örnek:** `./dataset/train/XR_HAND/sample_image.png`
+**Görsel Örnek:** ![image](https://github.com/user-attachments/assets/a148ac02-3482-44f8-b88d-2b68652120a8)
+
 
 ---
 
@@ -209,7 +210,8 @@ print(f"Tahmin Edilen Sınıf Adı: {predicted_class_name}")
 
 ```plaintext
 Model başarıyla yüklendi.
-Görüntü: ./dataset/valid/XR_HAND/sample_image.png
+Görüntü: ![image1](https://github.com/user-attachments/assets/039342ad-8c5e-4812-a711-3dbaed45a825)
+
 Tahmin Edilen Sınıf İndeksi: 3
 Tahmin Edilen Sınıf Adı: HAND
 ```
